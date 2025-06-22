@@ -28,12 +28,6 @@ CIFLAKE:- This dataset comprises around 120,000 low-res images divided into 100,
 Then we preprocessed the images, extracted their features, split the training data into training and validation sets. Next, we built and trained a Convolutional Neural Network based classifier model using a dataset of approximately 100,000 images.
 
 
-## Demo 
-[(Back to top)](#table-of-contents)
-
-Here is a short demo of the deployed web application. Please look into the demo.
-
-https://github.com/kovidjuneja/assets/blob/main/Screen%20Recording%202024-06-15%20at%208.37.47%20AM.mov
 ## Installation
 [(Back to top)](#table-of-contents)
 
@@ -43,7 +37,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/kovidjuneja/The_best_image_classifier
+  git clone https://github.com/Harsh-IITG/Image_Classifier
 ```
 Now, install the requirements using the following command.
 
@@ -96,9 +90,9 @@ During evaluation, the model achieved an accuracy of 88.68%.
 
 Classification Report and Confusion matrix have been uploaded.
 
-Classification Report: https://github.com/kovidjuneja/The_best_image_classifier/blob/main/Classification%20Report
+Classification Report: https://github.com/Harsh_IITG/Image_Classifier/blob/main/Classification%20Report
 
-Confusion Matrix: https://github.com/kovidjuneja/The_best_image_classifier/blob/main/Confusion%20Matrix
+Confusion Matrix: https://github.com/Harsh-IITG/Image_Classifier/blob/main/Confusion%20Matrix
 > 0 represents Real and 1 represents AI Generated
 ## Deployment
 [(Back to top)](#table-of-contents)
